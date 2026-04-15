@@ -110,15 +110,12 @@ int main() {
                     switch (opcaoE) {
                         case 1:
                             excluir_aluno(aluno, &qtd_alunos);
-                            printf("Funcao de excluir aluno ainda nao implementada\n");
                             break;
                         case 2:
                             excluir_professor(professor, &qtd_professores);
-                            printf("Funcao de excluir professor ainda nao implementada\n"); 
                             break;
                         case 3:
                             excluir_disciplina(disciplina, &qtd_disciplinas);
-                            printf("Funcao de excluir disciplina ainda nao implementada\n");
                             break;
                         case 4:
                             excluir_aluno_disciplina(disciplina, qtd_disciplinas, aluno, qtd_alunos);
