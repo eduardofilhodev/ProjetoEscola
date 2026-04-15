@@ -1,0 +1,5 @@
+programacao;201;1;50;101
+estrutura de dados;202;2;30;101
+banco de dados;203;3;45;102
+engenharia de software;204;4;60;104
+redes de computadores;205;3;20;103
