@@ -1,19 +1,12 @@
-# 🔧 Compilados (C)
 *.exe
 *.out
 *.o
 *.obj
 
-# 📦 Pastas que você NÃO quer subir
-readme/
 
-# 🧠 VS Code
+readme/
 .vscode/
 
-# 🗂️ Arquivos temporários
 *.log
 *.tmp
-*.cache
-
-# 🐧 Linux / geral
 *~
